@@ -1,0 +1,8 @@
+[04-Jan-2020 18:35:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home2/vegilk/public_html/admin/backend/views/order-table/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/vegilk/public_html/admin/backend/views/order-table/index.php on line 10
+[04-Jan-2020 18:35:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home2/vegilk/public_html/admin/backend/views/order-table/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/vegilk/public_html/admin/backend/views/order-table/index.php on line 10
